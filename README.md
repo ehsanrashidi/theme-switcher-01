@@ -42,8 +42,8 @@ export const ThemeSwitch = () => {
 ```
 
 <div align="center">
-  <img src="Screenshots/day.png" alt="Light Mode" width="100" />
-  <img src="Screenshots/night.png" alt="Dark Mode" width="100" />
+  <img src="screenshots/day.png" alt="Light Mode" width="100" />
+  <img src="screenshots/night.png" alt="Dark Mode" width="100" />
 </div>
 
 ---
